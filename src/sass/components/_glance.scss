@@ -1,0 +1,25 @@
+.glance {
+    background-color: rgb(0, 255, 255);
+
+    &__current {
+        &--subheading{
+            font-size: 100px;
+            margin-top: 100px;
+        }
+
+        &--
+    }
+
+    &__text {
+      background-color: aquamarine;
+    }
+
+    &__heading {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    &__container {
+        display: flex;
+        flex-direction: row;
+    }
+}
